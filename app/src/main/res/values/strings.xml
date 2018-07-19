@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Diff_Buttons</string>
+    <string-array name="Subjects">
+    <item>C++</item>
+     <item>Java</item>
+    <item>Python</item>
+    <item>.Net</item>
+    </string-array></resources>
